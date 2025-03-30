@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Froskersss
+- 👋 Hi, I’m Soumalya Ghosh, you may find me on social media as @Froskersss
 - 👀 I’m interested in anything fun.
 - 🌱 I’m currently doing a bachelor's in AIML
 - 💞️ I’m looking to collaborate on ...
