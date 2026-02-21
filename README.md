@@ -17,12 +17,6 @@ An end-to-end NLP pipeline for aggregating and summarizing CPU reviews collected
 - Abstractive summarization using Google FLAN-T5  
 - Flask-based local deployment  
 
-### System Architecture
-
-<p align="center">
-  <img src="assets/cpu_summariser_architecture.png" width="700"/>
-</p>
-
 Pipeline:
 Web Scraper → Text Cleaning → Concatenation → FLAN-T5 → Flask API
 
