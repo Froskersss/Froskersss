@@ -1,16 +1,81 @@
-## Hi there 👋
+# Soumalya Ghosh
+### Machine Learning & Applied NLP Intern
 
-<!--
-**Froskersss/Froskersss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build end-to-end ML pipelines involving data acquisition, transformer-based modeling, and lightweight deployment. Interested in efficient model deployment and resource-aware ML systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+## 🧠 CPU Review Summariser *(Paused — Iteration Planned)*
+
+An end-to-end NLP pipeline for aggregating and summarizing CPU reviews collected from multiple online sources.
+
+### Current Capabilities
+- Web scraping from multiple review platforms  
+- Text preprocessing and aggregation  
+- Abstractive summarization using Google FLAN-T5  
+- Flask-based local deployment  
+
+### System Architecture
+
+<p align="center">
+  <img src="assets/cpu_summariser_architecture.png" width="700"/>
+</p>
+
+Pipeline:
+Web Scraper → Text Cleaning → Concatenation → FLAN-T5 → Flask API
+
+
+### Engineering Focus
+- Handling long-context inputs via chunking  
+- Managing transformer token limits  
+- Integrating model inference into a web backend  
+
+### 🔭 Planned Improvements
+- ROUGE-based evaluation framework  
+- Model comparison experiments  
+- Latency and memory profiling  
+- Quantized model experiments  
+- Cloud deployment  
+
+---
+
+## 🔬 Currently Exploring
+- JPEG encoder from scratch (classical compression study)  
+- Model efficiency and compression techniques  
+
+---
+
+## 🧠 Technical Stack
+
+**Languages**
+- Python  
+- C/C++  
+
+**ML & Data**
+- NumPy  
+- Pandas  
+- scikit-learn  
+- HuggingFace Transformers  
+
+**Deployment**
+- Flask  
+
+---
+
+## 📘 Core Knowledge
+
+- Linear Algebra  
+- Probability & Statistics  
+- Optimization  
+- Data Structures  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: www.linkedin.com/in/soumalya-ghosh-16b023276
+- Email: soumalyaghosh2005@outlook.com
+
+---
