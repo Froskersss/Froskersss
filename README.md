@@ -1,5 +1,4 @@
 # Soumalya Ghosh
-### Machine Learning & Applied NLP Intern
 
 I build end-to-end ML pipelines involving data acquisition, transformer-based modeling, and lightweight deployment. Interested in efficient model deployment and resource-aware ML systems.
 
