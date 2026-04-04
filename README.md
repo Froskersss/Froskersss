@@ -13,11 +13,11 @@ An end-to-end NLP pipeline for aggregating and summarizing CPU reviews collected
 ### Current Capabilities
 - Web scraping from multiple review platforms  
 - Text preprocessing and aggregation  
-- Abstractive summarization using Google FLAN-T5  
+- Abstractive summarization using Mistral 7B model.
 - Flask-based local deployment  
 
 Pipeline:
-Web Scraper → Text Cleaning → Concatenation → FLAN-T5 → Flask API
+Web Scraper → Text Cleaning → separate summarisation -> aggregated summarization → Ollama based mistral model → Flask API
 
 
 ### Engineering Focus
