@@ -36,7 +36,8 @@ Web Scraper → Text Cleaning → separate summarisation -> aggregated summariza
 
 ## 🔬 Currently Exploring
 - JPEG encoder from scratch (classical compression study)  
-- Model efficiency and compression techniques  
+- Model efficiency and compression techniques
+- Linux for server management
 
 ---
 
