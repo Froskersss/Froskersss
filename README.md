@@ -15,26 +15,6 @@ I build end-to-end ML pipelines — from data acquisition and preprocessing to t
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
----
-
-## 📂 Projects
-
-**[CPU Review Summariser](https://github.com/Froskersss/CPU-REVIEW-SUMMARISER)**
-An NLP pipeline that scrapes CPU reviews from multiple sources and summarizes them using Google FLAN-T5, served via a Flask API. *(Paused — iteration planned)*
-
-**[PostureAI](https://github.com/Froskersss/PostureAI)**
-A team project tackling bad posture detection using computer vision. Built in Python with real-time feedback as the goal.
-
-**[Implementation of Models](https://github.com/Froskersss/implementation-of-models)**
-A learning repo where I implement ML and deep learning models from scratch to understand their internal workings, without relying on high-level abstractions.
-
-**[Iris Classification](https://github.com/Froskersss/iris_classification)**
-A classic multiclass classification project on the Iris dataset, used to explore and compare different classification approaches.
-
-**[Linear Regression from Scratch](https://github.com/Froskersss/LR-with-1-feature)**
-A ground-up implementation of single-feature linear regression without scikit-learn, focusing on the underlying math and gradient descent mechanics.
-
----
 
 ## 🔬 Currently Exploring
 
